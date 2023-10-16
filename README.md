@@ -1,9 +1,9 @@
 <h1 align="center"> Swiggy Food Delivery Analysis </h1>
+<img src="https://github.com/Sanskrutee-Dudhe/swiggy_Food_Delivery/assets/122347459/ac45c8cb-6dda-4e36-8182-3acd20431b53" width='900px' height='500px' >
 
-<br>
+ 
 
 ## 👁️Project Overview
-
 
 The project Swiggy Food Delivery Analysis, which delves into food delivery and restaurant analysis with a focus on Swiggy, a prominent food delivery platform. Our project involved data extraction, comprehensive data analysis, and the creation of an interactive dashboard. The objective was to provide valuable recommendations to a consultancy firm interested in opening a remote kitchen in Bangalore. Let's explore the project's process, analysis, key findings, and recommendations.
 
