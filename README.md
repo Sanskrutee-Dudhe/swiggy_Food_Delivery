@@ -13,8 +13,8 @@ The project Swiggy Food Delivery Analysis, which delves into food delivery and r
 - [`Aim/Objectives`](#aimobjectives)
 - [`Problem Statement`](#problem-statement)
 - [`Tools, Libraries, and Techniques`](#tools-libraries-and-techniques)
-- [`Data Acquisition: Web Scraping and Preprocessing`](#data-acquisition-web-scraping-and-preprocessing)
 
+- [`Data Acquisition: Web Scraping and Preprocessing`](#data-acquisition-web-scraping-and-preprocessing)
 - [`Analysis Process`](#analysis-process)
 - [`Primary Insights`](#primary-insights)
 - [`Summary`](#summary)
@@ -83,9 +83,12 @@ These analyses shed light on results into meaningful insights and recommendation
 <br>
 
 ## 📊Visulization
-<img src="ysis/assets/137817362/10cae715-8210-40dd-b9b3-779323dd6801" >
+![Screenshot 2023-10-17 135708](https://github.com/Sanskrutee-Dudhe/swiggy_Food_Delivery/assets/122347459/f5022334-790d-4ab3-aa64-11816171892c)
+
 <br><br>
-<img src="nalysis/assets/137817362/608b2493-f2ed-4785-a6be-9eb4ffe33ab7" >
+![Screenshot 2023-10-17 140010](https://github.com/Sanskrutee-Dudhe/swiggy_Food_Delivery/assets/122347459/b9844ff5-f51b-42b2-8a48-c70636d2d610)
+
+
 
 <br><br>
 
